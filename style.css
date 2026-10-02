@@ -249,3 +249,16 @@ section.projetos .flex{
 .overlay:hover{
     opacity: 1;
 }
+
+/* ESTILO DO RODAPÉ */
+
+section.rodapé{
+    display: flex;
+    gap: 80px;
+    align-items: center;
+}
+
+section.rodapé .logo-footer img{
+    width: 200px;
+    height: auto;
+}
